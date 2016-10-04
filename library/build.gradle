@@ -2,6 +2,8 @@ apply plugin: 'android-library'
 
 repositories {
     mavenCentral()
+    jcenter()
+
 }
 
 android {
